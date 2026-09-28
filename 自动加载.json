@@ -1,0 +1,74 @@
+{
+  "logo": "./img/logo.png",
+  "spider": "./jar/xs.jar",
+  "sites": [
+    {
+      "name": "自动加载",
+      "key": "自动加载",
+      "type": 3,
+      "api": "./jar/自动加载.py"
+    },
+    {
+      "key": "Douban",
+      "name": "🌀Ai2629",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "FreeOK最终修复版_py",
+      "name": "FreeOK最终修复版",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/FreeOK最终修复版.py"
+    },
+    {
+      "key": "一起看_py",
+      "name": "一起看",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/一起看.py"
+    },
+    {
+      "key": "一键修复女优库db_py",
+      "name": "一键修复女优库db",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/一键修复女优库db.py"
+    },
+    {
+      "key": "小苹果_py",
+      "name": "小苹果",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/小苹果.py"
+    },
+    {
+      "key": "热播APP_py",
+      "name": "热播APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/热播APP.py"
+    },
+    {
+      "key": "猎手APP_py",
+      "name": "猎手APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./py/猎手APP.py"
+    }
+  ]
+}
